@@ -12,6 +12,8 @@ Things that I do
 
 Thank you for stopping by! ❤️
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=dakshithadissanayaka&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### Find me here:
 <a rel="me" href="https://www.facebook.com/dakshithadissanayaka/">Facebook</a>  
 <a rel="me" href="https://www.linkedin.com/in/dakshithadissanayaka/">LinkedIn</a>  
