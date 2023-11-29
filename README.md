@@ -7,6 +7,5 @@ I spend most of my time researching how to make learning to everything fun and m
 
 [![Dakshitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=dakshithadissanayaka&icons=true&theme=chartreuse-dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&number_format=long&include_all_commits=true&show_icons=true)](https://github.com/dakshithadissanayaka/github-readme-stats) 
 
-Thanks a ton for the visit! 🚀
-
+Thanks a bunch for your visit! ❤️
 
