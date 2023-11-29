@@ -1,8 +1,8 @@
 # Hi there 👋
 
-> ## “I'll be there for you to learn everything easier.”   
+> ## “I'll be there for you to learn everything easier.” :electron:    
 
-I am a lifelong learner. My name is Dakshitha and I am a Co-Founder @ Zfrozen based in Sri Lanka. :electron:   
+I am a lifelong learner. My name is Dakshitha and I am a Co-Founder @ Zfrozen based in Sri Lanka. 
 I spend most of my time researching how to make learning to everything fun and make hard concepts easy to understand.
 
 Things that I do  
@@ -10,7 +10,7 @@ Things that I do
 • UI/UX, both Web Applications and Mobile Applications cross-platform Native.  
 • Develop Web Applications with ReactJs and NodeJs.  
 
-Thank you for stopping by!
+Thank you for stopping by! ❤️
 
 ### Find me here:
 <a rel="me" href="https://www.facebook.com/dakshithadissanayaka/">Facebook</a>  
