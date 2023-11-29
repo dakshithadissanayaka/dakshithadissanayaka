@@ -5,11 +5,8 @@
 I am a lifelong learner. My name is Dakshitha and I am a Co-Founder @ Zfrozen based in Sri Lanka. 
 I spend most of my time researching how to make learning to everything fun and make hard concepts easy to understand.
 
-Things that I do  
-• Programming in ReactJs.  
-• UI/UX, both Web Applications and Mobile Applications cross-platform Native.  
-• Develop Web Applications with ReactJs and NodeJs.  
+[![Dakshitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=dakshithadissanayaka&icons=true&theme=chartreuse-dark)](https://github.com/dakshithadissanayaka/github-readme-stats)
 
 Thank you for stopping by! ❤️
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dakshithadissanayaka&theme=onedark&column=5&margin-w=15&margin-h=15)](https://github.com/dakshithadissanayaka/github-profile-trophy)
+
