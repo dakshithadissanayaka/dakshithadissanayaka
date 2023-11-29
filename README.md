@@ -1,25 +1,20 @@
-# 👋 Welcome Zfrozen Team :electron:	
+# Hi there 👋
 
-> ## ***" Technology Beyond the Scenario"***
+> ## “I'll be there for you to learn everything easier.”   
 
-### Hybrid workplace: ###
-> ### At Zfrozen, we take great pride in fostering a workplace culture that promotes innovation, collaboration, and employee well-being. Our workplace policy is designed to create an environment where every team member feels valued, respected, and empowered to reach their full potential.
+I am a lifelong learner. My name is Dakshitha and I am a Co-Founder @ Zfrozen based in Sri Lanka. :electron:   
+I spend most of my time researching how to make learning to everything fun and make hard concepts easy to understand.
 
-### Industry: 
-> ## **Software Development**
+Things that I do  
+• Programming in ReactJs.  
+• UI/UX, both Web Applications and Mobile Applications cross-platform Native.  
+• Develop Web Applications with ReactJs and NodeJs.  
 
-### Company size:  
-> ## **2-10 employees**
+Thank you for stopping by!
 
-### Headquarters:  
-> ## **Kelaniya, Western, Sri Lanka**
+### Find me here:
+<a rel="me" href="https://www.facebook.com/dakshithadissanayaka/">Facebook</a>  
+<a rel="me" href="https://www.linkedin.com/in/dakshithadissanayaka/">LinkedIn</a>  
+<a rel="me" href="https://zfrozen.com">Zfrozen</a>
 
-### Founded:  
-> ## **2023**
-
-### Specialties:  
-> ## **IoT, Mobile Application, Web Development, AI, ML, UI/UX and Innovation**
-
-### Developer Quotes: ###
-> [!NOTE]
-> ## *" First, solve the problem. Then, write the code :heart: "* ~ [Dakshitha Dissanayaka](https://github.com/dakshithadissanayaka)
+<img width="200" alt="image" src="https://github.com/dakshithadissanayaka/dakshithadissanayaka/assets/45692186/2747a496-ba7c-448d-bd34-6a88adbf6e3b">
