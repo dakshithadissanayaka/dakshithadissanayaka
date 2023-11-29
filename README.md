@@ -10,9 +10,12 @@ I am a Co-Founder @ Zfrozen based in Sri Lanka. I spend most of my time research
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dakshithadissanayaka&layout=compact&theme=chartreuse-dark&card_width=467)](https://github.com/dakshithadissanayaka/github-readme-stats)
 
-Thanks a bunch for your visit! ❤️
-
 # 🙋‍♂️ Support
 
+If you find my work helpful or interesting, consider supporting me:
+
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-donate-purple?logo=buy-me-a-coffee)](https://buymeacoffee.com/yourusername)
+
+Your support goes a long way in keeping me fueled for more research and creating content to make learning enjoyable! ❤️
+
 
