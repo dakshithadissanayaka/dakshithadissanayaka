@@ -14,8 +14,5 @@ Thanks a bunch for your visit! ❤️
 
 # 🙋‍♂️ Support
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-donate-orange?logo=buy-me-a-coffee)](https://buymeacoffee.com/yourusername)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-donate-purple?logo=buy-me-a-coffee)](https://buymeacoffee.com/yourusername)
 
-# Sponsorship
-
-If you prefer to sponsor through Payoneer, please contact me at [dakshithadissanayaka96@gmail.com](mailto:dakshithadissanayaka96@gmail.com) for further details. Your support is greatly appreciated!
