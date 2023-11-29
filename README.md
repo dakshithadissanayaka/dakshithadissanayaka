@@ -5,7 +5,7 @@
 I am a lifelong learner. My name is Dakshitha and I am a Co-Founder @ Zfrozen based in Sri Lanka. 
 I spend most of my time researching how to make learning to everything fun and make hard concepts easy to understand.
 
-[![Dakshitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=dakshithadissanayaka&icons=true&theme=chartreuse-dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/dakshithadissanayaka/github-readme-stats)
+[![Dakshitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=dakshithadissanayaka&icons=true&theme=chartreuse-dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&number_format=long&include_all_commits=true&show_icons=true)](https://github.com/dakshithadissanayaka/github-readme-stats) 
 
 Thank you for stopping by! ❤️
 
