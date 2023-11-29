@@ -12,7 +12,7 @@ Things that I do
 
 Thank you for stopping by! ❤️
 
-https://github-profile-trophy.vercel.app/?username=dakshithadissanayaka&column=3&margin-w=15&margin-h=15
+[![trophy](https://github-profile-trophy.vercel.app/?username=dakshithadissanayaka)](https://github.com/dakshithadissanayaka/github-profile-trophy)
 
 ### Find me here:
 <a rel="me" href="https://www.facebook.com/dakshithadissanayaka/">Facebook</a>  
