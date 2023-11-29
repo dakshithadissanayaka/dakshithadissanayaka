@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">
 
 > ## “I'll be there for you to learn everything easier.” :electron:    
 
@@ -12,11 +12,4 @@ Things that I do
 
 Thank you for stopping by! ❤️
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dakshithadissanayaka)](https://github.com/dakshithadissanayaka/github-profile-trophy)
-
-### Find me here:
-<a rel="me" href="https://www.facebook.com/dakshithadissanayaka/">Facebook</a>  
-<a rel="me" href="https://www.linkedin.com/in/dakshithadissanayaka/">LinkedIn</a>  
-<a rel="me" href="https://zfrozen.com">Zfrozen</a>
-
-<img width="200" alt="image" src="https://github.com/dakshithadissanayaka/dakshithadissanayaka/assets/45692186/2747a496-ba7c-448d-bd34-6a88adbf6e3b">
+[![trophy](https://github-profile-trophy.vercel.app/?username=dakshithadissanayaka&theme=onedark&column=5&margin-w=15&margin-h=15)](https://github.com/dakshithadissanayaka/github-profile-trophy)
