@@ -2,7 +2,7 @@
 
 > ## “I'll be there for you to learn everything easier.”
 
-I am a Co-Founder @ Zfrozen based in Sri Lanka. I spend most of my time researching how to make learning everything fun and make hard concepts easy to understand.
+I am a Co-Founder @ Zfrozen in Sri Lanka. I spend most of my time researching how to make learning everything fun and make hard concepts easy to understand.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dakshithadissanayaka&theme=highcontrast&card_width=467&token=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)](https://git.io/streak-stats)
 
