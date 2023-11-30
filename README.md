@@ -18,4 +18,5 @@ If you find my work helpful or interesting, consider supporting me:
 
 Your support goes a long way in keeping me fueled for more research and creating content to make learning enjoyable! ❤️
 
+![](https://komarev.com/ghpvc/?username=dakshithadissanayaka&color=green)
 
