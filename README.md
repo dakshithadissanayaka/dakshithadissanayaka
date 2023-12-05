@@ -17,6 +17,3 @@ If you find my work helpful or interesting, consider supporting me:
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-donate-purple?logo=buy-me-a-coffee)](https://buymeacoffee.com/yourusername)
 
 Your support goes a long way in keeping me fueled for more research and creating content to make learning enjoyable! ❤️
-
-![](https://komarev.com/ghpvc/?username=dakshithadissanayaka&color=blue)
-
