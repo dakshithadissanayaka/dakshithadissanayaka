@@ -6,7 +6,7 @@ I am a Co-Founder @ Zfrozen in Sri Lanka. I spend most of my time researching ho
 
 [![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dakshithadissanayaka&theme=redical&height=250&hide_title=true)](https://github.com/dakshithadissanayaka/github-readme-activity-graph)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dakshithadissanayaka&theme=algolia&hide_border=true)](https://git.io/streak-stats)![GitHub Top Langs](https://api.githubtrends.io/user/svg/zfrozenmaster/langs?time_range=one_year&use_percent=True&include_private=True&loc_metric=changed&compact=True&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dakshithadissanayaka&theme=algolia&hide_border=true&card_width=600px)](https://git.io/streak-stats)![GitHub Top Langs](https://api.githubtrends.io/user/svg/zfrozenmaster/langs?time_range=one_year&use_percent=True&include_private=True&loc_metric=changed&compact=True&theme=dark)
 
 <!-- 
 [![Dakshitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=dakshithadissanayaka&icons=true&theme=chartreuse-dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&number_format=long&include_all_commits=true&show_icons=true&token=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)](https://github.com/dakshithadissanayaka/github-readme-stats)
