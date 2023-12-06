@@ -9,8 +9,9 @@ I am a Co-Founder @ Zfrozen in Sri Lanka. I spend most of my time researching ho
 [![GitHub Streak](https://streak-stats.demolab.com?user=dakshithadissanayaka&theme=algolia&hide_border=true&card_width=540px)](https://git.io/streak-stats)![GitHub Top Langs](https://api.githubtrends.io/user/svg/zfrozenmaster/langs?time_range=one_year&use_percent=True&include_private=True&loc_metric=changed&compact=True&theme=dark)
 <!-- 
 ![Github Repo](https://api.githubtrends.io/user/svg/zfrozenmaster/repos?time_range=one_year&include_private=true&group=private&loc_metric=changed&theme=dark)
--->
+
 ![Metrics](/github-metrics.svg)
+-->
 
 <!-- 
 [![Dakshitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=dakshithadissanayaka&icons=true&theme=chartreuse-dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&number_format=long&include_all_commits=true&show_icons=true&token=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)](https://github.com/dakshithadissanayaka/github-readme-stats)
