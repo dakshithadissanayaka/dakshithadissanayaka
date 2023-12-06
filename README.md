@@ -4,6 +4,8 @@
 
 I am a Co-Founder @ Zfrozen in Sri Lanka. I spend most of my time researching how to make learning everything fun and make hard concepts easy to understand.
 
+[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dakshithadissanayaka&theme=redical)](https://github.com/dakshithadissanayaka/github-readme-activity-graph)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=dakshithadissanayaka&theme=algolia&hide_border=true)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dakshithadissanayaka&show_icons=true&theme=algolia&hide_border=true&card_width=494px&hide_title=true&count_private=true&number_format=long&rank_icon=github&show=prs_merged)
