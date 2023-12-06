@@ -6,7 +6,7 @@ I am a Co-Founder @ Zfrozen in Sri Lanka. I spend most of my time researching ho
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dakshithadissanayaka&theme=algolia&hide_border=true)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dakshithadissanayaka&show_icons=true&theme=algolia&hide_border=true&card_width=494px&hide_title=true&show=prs_merged,prs_merged_percentage,discussions_started,discussions_answered,reviews,include_all_commits&rank_icon=github)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dakshithadissanayaka&show_icons=true&theme=algolia&hide_border=true&card_width=494px&hide_title=true&show=prs_merged,prs_merged_percentage,discussions_started,discussions_answered,reviews,include_all_commits=true&count_private=true)
 
 <!-- 
 [![Dakshitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=dakshithadissanayaka&icons=true&theme=chartreuse-dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&number_format=long&include_all_commits=true&show_icons=true&token=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)](https://github.com/dakshithadissanayaka/github-readme-stats)
