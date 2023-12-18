@@ -8,7 +8,7 @@ I am a Co-Founder @ Zfrozen in Sri Lanka. I spend most of my time researching ho
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dakshithadissanayaka&theme=algolia&hide_border=true&card_width=540px)](https://git.io/streak-stats)![GitHub Top Langs](https://api.githubtrends.io/user/svg/zfrozenmaster/langs?time_range=one_year&use_percent=True&include_private=True&loc_metric=changed&compact=True&theme=dark)
 
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=13516873&layout=compact&theme=dark)](https://stackoverflow.com/users/13516873/dakshitha96)
+[![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=13516873&layout=compact&theme=dark)](https://stackoverflow.com/users/13516873/dakshitha96)
 <!-- 
 ![Github Repo](https://api.githubtrends.io/user/svg/zfrozenmaster/repos?time_range=one_year&include_private=true&group=private&loc_metric=changed&theme=dark)
 
@@ -24,6 +24,6 @@ I am a Co-Founder @ Zfrozen in Sri Lanka. I spend most of my time researching ho
 
 If you find my work helpful or interesting, consider supporting me:
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-donate-purple?logo=buy-me-a-coffee)](https://buymeacoffee.com/yourusername)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-donate-purple?logo=buy-me-a-coffee)](https://www.buymeacoffee.com/dakshithadissanayaka)
 
 Your support goes a long way in keeping me fueled for more research and creating content to make learning enjoyable! ❤️
