@@ -24,7 +24,9 @@ I am a Co-Founder @ Zfrozen in Sri Lanka. I spend most of my time researching ho
 # 🙋‍♂️ Support
 
 If you find my work helpful or interesting, consider supporting me:
-
+<!-- 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-donate-purple?logo=buy-me-a-coffee)](https://www.buymeacoffee.com/dakshithadissanayaka)
+-->
+<a href="https://www.buymeacoffee.com/dakshithadissanayaka" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 Your support goes a long way in keeping me fueled for more research and creating content to make learning enjoyable! ❤️
