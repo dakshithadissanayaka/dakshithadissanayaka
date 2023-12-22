@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">
+# Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="29px" height="29px">
 
 > ## “I'll be there for you to learn everything easier.”
 
