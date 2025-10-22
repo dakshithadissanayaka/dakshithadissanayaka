@@ -2,7 +2,7 @@
 
 > ## “I'll be there for you to learn everything easier.”
 
-I am a Director @ Zfrozen Pvt Ltd in Sri Lanka. I spend most of my time researching how to make learning everything fun and make hard concepts easy to understand.
+I am a Co-Founder @ Zfrozen Pvt Ltd in Sri Lanka. I spend most of my time researching how to make learning everything fun and make hard concepts easy to understand.
 
 [![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dakshithadissanayaka&theme=tokyo-day&height=250&hide_title=true)](https://github.com/dakshithadissanayaka/github-readme-activity-graph)
 
